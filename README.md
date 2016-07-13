@@ -1,2 +1,0 @@
-# household-power-consumption
-  dd
